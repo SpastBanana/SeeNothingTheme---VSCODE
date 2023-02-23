@@ -12,4 +12,5 @@ Checkout [my Github](https://github.com/SpastBanana) for more work!
 | --------------- | ---------- | ------ | -------------------------------------------------------- |
 | First push | 22-02-2023 | 0.0.1  | Created project structure |
 |  | 23-02-2023 | 0.1.1  | Bugfix for 'keyword' and 'storage' types |
-| --- latest --- | 23-02-2023 | 0.1.2  | Changed bracket and operator colors for more contrast |
+|  | 23-02-2023 | 0.1.2  | Changed bracket and operator colors for more contrast |
+| --- latest --- | 23-02-2023 | 0.1.3  | Changed some accent colors to not display all words one color in python, and made the variable standard blue lighter |

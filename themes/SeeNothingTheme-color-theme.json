@@ -245,7 +245,7 @@
 				"meta.paragraph"
 			],
 			"settings": {
-				"foreground": "#1a86a7",
+				"foreground": "#15b9eb",
 				"fontStyle": "bold"
 			}
 		},
@@ -301,7 +301,7 @@
 				"meta.function-call.arguments"
 			],
 			"settings": {
-				"foreground": "#1a86a7",
+				"foreground": "#15b9eb",
 				"fontStyle": ""
 			}
 		},
