@@ -1,10 +1,27 @@
 {
   "name": "SeeNothingTheme",
   "displayName": "SeeNothingTheme",
-  "description": "Black color theme with nice soft colors",
+  "description": "Black color theme with nice soft matte colors",
   "icon": "Logo.png",
   "version": "0.1.2",
-  "repository": {"https://github.com/SpastBanana/SeeNothingTheme---VSCODE"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpastBanana/SeeNothingTheme---VSCODE"
+  },
+  "keywords": [
+    "theme",
+    "Theme",
+    "dark",
+    "dark theme",
+    "cool dark theme",
+    "clean theme",
+    "clean",
+    "clean dark",
+    "nice dark theme",
+    "nice dark",
+    "matte dark theme",
+    "matte dark"
+  ],
   "engines": {
     "vscode": "^1.75.0"
   },
