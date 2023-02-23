@@ -259,7 +259,7 @@
 				"punctuation.section"
 			],
 			"settings": {
-				"foreground": "#a27719",
+				"foreground": "#d6aa31",
 				"fontStyle": ""
 			}
 		},
@@ -282,7 +282,9 @@
 				"entity.other.attribute-name",
 				"keyword.other.unit",
 				"punctuation.definition.constant.css",
-				"markup.italic"
+				"markup.italic",
+				"support.type",
+				"keyword.operator.expression"
 			],
 			"settings": {
 				"foreground": "#377934",
@@ -295,7 +297,8 @@
 				"variable",
 				"meta.fstring",
 				"source",
-				"support.type.property-name"
+				"support.type.property-name",
+				"meta.function-call.arguments"
 			],
 			"settings": {
 				"foreground": "#1a86a7",
