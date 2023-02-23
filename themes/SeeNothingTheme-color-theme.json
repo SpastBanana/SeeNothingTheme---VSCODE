@@ -190,11 +190,11 @@
 		"editor.findMatchHighlightBackground": "#f700ff36",
 		"editor.lineHighlightBackground": "#111",
 		"editor.lineHighlightBorder": "#222",
-		"editor.selectionBackground": "#55555555",
+		"editor.selectionBackground": "#77777777",
 
-		"editor.wordHighlightBackground": "#99410366",
-		"editor.wordHighlightStrongBackground": "#99410366",
-		"editor.wordHighlightTextBackground": "#99410366",
+		"editor.wordHighlightBackground": "#99410355",
+		"editor.wordHighlightStrongBackground": "#99410355",
+		"editor.wordHighlightTextBackground": "#99410355",
 
 		"editorSuggestWidget.focusHighlightForeground": "#0097bd",
 		"editorSuggestWidget.highlightForeground": "#0f4c5f",
@@ -207,8 +207,8 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#666",
-				"fontStyle": "italic"
+				"foreground": "#888",
+				"fontStyle": "italic",
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 				"markup.bold",
 			],
 			"settings": {
-				"foreground": "#3f8f3b",
+				"foreground": "#b31c30",
 				"fontStyle": "bold"
 			}
 		},
@@ -234,7 +234,8 @@
 				"heading"
 			],
 			"settings": {
-				"foreground": "#8a0e0a",
+				// bb1919 red
+				"foreground": "#b31c30",
 				"fontStyle": ""
 			}
 		},
@@ -242,11 +243,12 @@
 			"name": "operators",
 			"scope": [
 				"keyword.operator",
-				"meta.paragraph"
+				"meta.paragraph",
+				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#15b9eb",
-				"fontStyle": "bold"
+				"foreground": "#2da138",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -256,10 +258,10 @@
 				"constant.character.format.placeholder",
 				"punctuation.parenthesis",
 				"meta.brace",
-				"punctuation.section"
+				"punctuation.section",
 			],
 			"settings": {
-				"foreground": "#d6aa31",
+				"foreground": "#FFD700",
 				"fontStyle": ""
 			}
 		},
@@ -278,7 +280,7 @@
 		{
 			"name": "storage",
 			"scope": [
-				"storage.type",
+				"storage.type.function",
 				"entity.other.attribute-name",
 				"keyword.other.unit",
 				"punctuation.definition.constant.css",
@@ -287,21 +289,21 @@
 				"keyword.operator.expression"
 			],
 			"settings": {
-				"foreground": "#377934",
-				"fontStyle": "italic"
+				"foreground": "#66c9ff",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
 			"name": "variable",
 			"scope": [
 				"variable",
-				"meta.fstring",
 				"source",
 				"support.type.property-name",
 				"meta.function-call.arguments"
 			],
 			"settings": {
-				"foreground": "#15b9eb",
+				// 15b9eb blue
+				"foreground": "#66c9ff",
 				"fontStyle": ""
 			}
 		},
@@ -312,9 +314,12 @@
 				"constant",
 				"markup.inline.raw.string.markdown",
 				"markup.underline.link",
+				"meta.fstring",
+				"storage.type.string"
 			],
 			"settings": {
-				"foreground": "#7f22c1",
+				// 7f22c1 purple
+				"foreground": "#71286c",
 				"fontStyle": "bold"
 			}
 		},
