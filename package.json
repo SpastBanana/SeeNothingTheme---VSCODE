@@ -4,6 +4,7 @@
   "description": "Black color theme with nice soft matte colors",
   "icon": "Logo.png",
   "version": "0.1.2",
+  "publisher": "DataLectro-Themes",
   "repository": {
     "type": "git",
     "url": "https://github.com/SpastBanana/SeeNothingTheme---VSCODE"
