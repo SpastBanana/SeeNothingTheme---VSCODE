@@ -4,6 +4,7 @@
   "description": "Black color theme with nice soft colors",
   "icon": "Logo.png",
   "version": "0.1.2",
+  "repository": {"https://github.com/SpastBanana/SeeNothingTheme---VSCODE"},
   "engines": {
     "vscode": "^1.75.0"
   },

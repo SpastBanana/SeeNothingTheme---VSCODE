@@ -6,7 +6,7 @@ Checkout [my Github](https://github.com/SpastBanana) for more work!
 
 ## Enjoy!
 
-![Demo IMG](./SeeNothingTheme-DemoImg.png)
+![Demo IMG](SeeNothingTheme-DemoImg.png)
 
 | Info            | Date       | Update | Description                                              |
 | --------------- | ---------- | ------ | -------------------------------------------------------- |
