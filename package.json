@@ -37,5 +37,8 @@
         "path": "./themes/SeeNothingTheme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
